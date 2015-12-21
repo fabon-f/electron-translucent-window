@@ -1,0 +1,14 @@
+{
+  "name": "terminal-like",
+  "version": "1.0.0",
+  "description": "",
+  "main": "browser.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "hinamiyagk",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.1"
+  }
+}
